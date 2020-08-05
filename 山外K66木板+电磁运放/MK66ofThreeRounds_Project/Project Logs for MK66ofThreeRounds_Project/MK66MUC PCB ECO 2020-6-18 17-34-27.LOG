@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=R33-1
+Removed Member From Class: ClassName=MK66MCU Member=R38
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Added Pin To Net: NetName=VCC_3.3V Pin=Q1-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R33-1
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR36_1

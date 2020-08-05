@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=ADC_OUT1 Pin=U1-5
+Removed Pin From Net: NetName=ADC_OUT2 Pin=U1-7
+Removed Pin From Net: NetName=ADC_OUT3 Pin=U1-9
+Removed Pin From Net: NetName=ADC_OUT5 Pin=U1-10
+Removed Pin From Net: NetName=ADC_OUT4 Pin=U1-11
+Removed Pin From Net: NetName=ADC_OUT6 Pin=U1-12
+Change Component Footprint: Designator=SW2 Old Footprint=VDG/S-04HG-R New Footprint=MCEMR-04-T
+Change Component Comment : Designator=R37 Old Comment=100 New Comment=0¦¸
+Added Component: Designator=J4(Header 2.54X8)
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=PWM_MOTOR2- Pin=J4-2
+Added Pin To Net: NetName=PWM_MOTOR2+ Pin=J4-3
+Added Pin To Net: NetName=PWM_MOTOR1- Pin=J4-4
+Added Pin To Net: NetName=PWM_MOTOR1+ Pin=J4-5
+Added Pin To Net: NetName=ADC_MOTOR2_IN Pin=J4-7
+Added Pin To Net: NetName=ADC_MOTOR1_IN Pin=J4-8
+Added Pin To Net: NetName=ADC_OUT3 Pin=U1-5
+Added Pin To Net: NetName=ADC_OUT4 Pin=U1-7
+Added Pin To Net: NetName=ADC_OUT5 Pin=U1-9
+Added Pin To Net: NetName=ADC_OUT6 Pin=U1-10
+Added Pin To Net: NetName=ADC_OUT1 Pin=U1-11
+Added Pin To Net: NetName=ADC_OUT2 Pin=U1-12
+Change Net Name : Old Net Name=ADC_OUT1 New Net Name=ADC_OUT5
+Change Net Name : Old Net Name=ADC_OUT2 New Net Name=ADC_OUT6
+Change Net Name : Old Net Name=ADC_OUT3 New Net Name=ADC_OUT1
+Change Net Name : Old Net Name=ADC_OUT4 New Net Name=ADC_OUT2
+Change Net Name : Old Net Name=ADC_OUT5 New Net Name=ADC_OUT3
+Change Net Name : Old Net Name=ADC_OUT6 New Net Name=ADC_OUT4
+Added Member To Class: ClassName=TC264MCUV02 Member=Component J4 Header
+Added Member To Class: ClassName=TC264MCUV02 Member=Component J5 Header 
+Added Member To Class: ClassName=TC264MCUV02 Member=Component J9 Header 2.54_2X3
+Added Member To Class: ClassName=TC264MCUV02 Member=Component J10 Header 2.54_2X3
+Added Member To Class: ClassName=TC264MCUV02 Member=Component K1 TS-Button_2P
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R7 2k
+Added Room: Name=TC264MCUV02

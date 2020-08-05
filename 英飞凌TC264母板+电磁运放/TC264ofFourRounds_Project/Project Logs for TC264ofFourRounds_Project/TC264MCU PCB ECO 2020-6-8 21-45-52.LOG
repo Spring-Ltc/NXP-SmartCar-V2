@@ -1,0 +1,5 @@
+Added Component: Designator=J12(JET)
+Added Component: Designator=JJJ(PIN-1-1.0)
+Added Pin To Net: NetName=AN21 Pin=J12-1
+Added Member To Class: ClassName=TC264MCU Member=Component J12 JET
+Added Member To Class: ClassName=TC264MCU Member=Component JJJ JET

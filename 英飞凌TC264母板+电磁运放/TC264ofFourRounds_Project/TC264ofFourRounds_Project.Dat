@@ -1,0 +1,44 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~99|Field=Description~String~Description~99|Field=Designator~String~Designator~99|Field=Footprint~String~Footprint~99|Field=LibRef~String~LibRef~99|Field=Quantity~Integer~Quantity~99|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~TC264ofFourRounds_Project.PrjPcb|ReportField=ProjectFullPath~E:\Personal\大三比赛玩一玩\再来一年智能车\新一代PCB\七月前争取完成\英飞凌TC264母板+电磁运放\TC264ofFourRounds_Project\TC264ofFourRounds_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [TC264ofFourRounds_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~82|ReportField=ReportTime~16:08:58|ReportField=ReportDate~2020/6/10|ReportField=ReportDateTime~2020/6/10 16:08:58|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2020/6/10|ReportField=CurrentTime~16:08:42|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Personal\大三比赛玩一玩\再来一年智能车\新一代PCB\七月前争取完成\英飞凌TC264母板+电磁运放\TC264ofFourRounds_Project\TC264MCU.SchDoc|ReportField=DocumentName~TC264MCU.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2020/6/10|ReportField=Organization~|ReportField=ProjectName~TC264ofFourRounds_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~TC264ofFourRounds_Project.PrjPcb|ReportField=DataSourceFullPath~E:\Personal\大三比赛玩一玩\再来一年智能车\新一代PCB\七月前争取完成\英飞凌TC264母板+电磁运放\TC264ofFourRounds_Project\TC264ofFourRounds_Project.PrjPcb
+1|470uF/35V|贴片电解电容|C1, C7, C10|CAPE_SMD_F_8.4|CAP_E_SMD|3
+2|220uF/25V|贴片电解电容|C2, C8|CAPE_SMD_D_6.4|CAP_E_SMD|2
+3|1000uF/35V|贴片电解电容|C3|CAPE_SMD_G_10.6|CAP_E_SMD|1
+4|106||C4, C6, C11|CAP_0603|CAP_0603|3
+5|104||C5, C9|CAP_0603|CAP_0603|2
+6|ZMM3V3||D1, D2, D3, D4, D5, D6, D7|LL-34_L3.5-W1.5-RD|ZMM3V3|7
+7|SS54/5A/40V||D8, D10, D11, D12|DO214_SMA|SS54|4
+8|LED|发光LED|D9|LED_0603_B|LED_0603|1
+9|3A/16V||F1|F1206|JK-NSMD100-16V|1
+10|JK-NSMD100-16V||F2, F3|F1206|JK-NSMD100-16V|2
+11|BUZZER|蜂鸣器|FM1|BUZZ-12*7.5|BUZZER|1
+12|Header||J1, J10, J11|Header 2.54X3|Header 2.54_3|3
+13|Header||J2|Header 2.54X8|Header 2.54_8|1
+14|Header||J3|Header F 2.54X7|Header 2.54_7|1
+15|Header||J4, J5|Header 2.54X6|Header 2.54_6|2
+16|Header||J6|Header 2.54X4|Header 2.54_4|1
+17|Header||J7, J9|Header 2.54_2X3|Header 2.54_2X3|2
+18|Header||J8|Header F 2.54_2x10|Header 2.54_2X10|1
+19|Header||J12|Header F 2.54X4|Header 2.54_4|1
+20|FPC_8pin||JP1|FPC_1.0_8P|FPC_8pin|1
+21|TS-Button_2P|贴片按键 3*6*2.5|K1, K2, K3, K4, K5|SW_SMD_6.1*3.7|TS-Button_2P|5
+22|33uH||L1, L2|IND-SMD_L8.0-W8.0|Inductor|2
+23|KF-2P-5.08|端子2P|P1|KF_2P-5.08|KF-2P-5.08|1
+24|2N3906|三极管PNP|Q1|TO_92A|2N3906|1
+25|2k||R1, R2, R3, R8, R13|RES_0603|RES_0603|5
+26|200||R4|RES_0603|RES_0603|1
+27|1k||R5, R6, R9, R10, R14, R16|RES_0603|RES_0603|6
+28|2k|可调电阻3296W|R7|RES_POT-3296W|RES_POT-3296W|1
+29|2.7k||R11|RES_0603|RES_0603|1
+30|4.7k||R12|RES_0603|RES_0603|1
+31|10k||R15, R17, R18, R19, R20, R21|RES_0603|RES_0603|6
+32|0Ω||R22|RES_0603|RES_0603|1
+33|240K||R23|RES_0603|RES_0603|1
+34|1Ω||R24|RES_0603|RES_0603|1
+35|2k||RN1|RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL|RESW4|1
+36|10k||RN2|RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL|RESW4|1
+37|PowerSwitch||SW1|SW-TH_K3-1260D-K1|PowerSwitch|1
+38|拨码开关4P|DIP_4PX2*2.54|SW2|MCEMR-04-T|拨码开关4P|1
+39|TC264CoreBoard||U1|LQ-TC264-SYSVC-S|TC264CoreBoard|1
+40|AS1015KBT||U2|SOIC-8_150MIL|AS1015KBT|1
+41|AMS1117-3.3||U3|SOT-223_3|AMS1117-3.3|1
+42|LM2596S-5.0/TR_C340931||U4|TO-263_5|LM2596S-5.0/TR_C340931|1
+43|TPS7333QDR||U5|SOIC-8_150MIL|TPS7333QDR|1

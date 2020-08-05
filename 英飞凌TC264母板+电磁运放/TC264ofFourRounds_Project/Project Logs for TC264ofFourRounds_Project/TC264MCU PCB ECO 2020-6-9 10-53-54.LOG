@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=ADC_IN1 Pin=RN1-1
+Removed Pin From Net: NetName=ADC_IN2 Pin=RN1-2
+Removed Pin From Net: NetName=ADC_IN3 Pin=RN1-3
+Removed Pin From Net: NetName=ADC_IN4 Pin=RN1-4
+Removed Pin From Net: NetName=NetJ5_6 Pin=RN1-5
+Removed Pin From Net: NetName=NetJ5_5 Pin=RN1-6
+Removed Pin From Net: NetName=NetJ5_4 Pin=RN1-7
+Removed Pin From Net: NetName=NetJ5_3 Pin=RN1-8
+Added Component: Designator=RN1(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Pin To Net: NetName=NetJ5_6 Pin=RN1-1
+Added Pin To Net: NetName=NetJ5_5 Pin=RN1-2
+Added Pin To Net: NetName=NetJ5_4 Pin=RN1-3
+Added Pin To Net: NetName=NetJ5_3 Pin=RN1-4
+Added Pin To Net: NetName=ADC_IN1 Pin=RN1-5
+Added Pin To Net: NetName=ADC_IN2 Pin=RN1-6
+Added Pin To Net: NetName=ADC_IN3 Pin=RN1-7
+Added Pin To Net: NetName=ADC_IN4 Pin=RN1-8

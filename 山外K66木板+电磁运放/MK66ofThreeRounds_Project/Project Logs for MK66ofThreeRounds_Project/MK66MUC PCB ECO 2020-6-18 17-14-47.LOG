@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J9 NewDesignator=J10
+Change Component Designator: OldDesignator=J10 NewDesignator=J11
+Added Component: Designator=J8(Header F 2.54_2x10)
+Added Member To Class: ClassName=MK66MCU Member=Component J11 Header

@@ -1,0 +1,107 @@
+Change Component Comment : Designator=J10 Old Comment=Header  New Comment=Header
+Change Component Comment : Designator=J11 Old Comment=Header  New Comment=Header
+Change Component Comment : Designator=RN2 Old Comment=RESW4 New Comment=10k
+Change Component Designator: OldDesignator=J10 NewDesignator=J12
+Change Component Designator: OldDesignator=J11 NewDesignator=J13
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=RN1 NewDesignator=RN2
+Change Component Designator: OldDesignator=RN2 NewDesignator=RN1
+Added Component: Designator=J10(Header 2.54X3)
+Added Component: Designator=J11(Header 2.54X3)
+Added Component: Designator=K5(SW_SMD_6.1*3.7)
+Added Component: Designator=R16(RES_0603)
+Added Pin To Net: NetName=GND Pin=J9-10
+Added Pin To Net: NetName=VCC_3.3V Pin=J9-11
+Added Pin To Net: NetName=GND Pin=J9-12
+Added Pin To Net: NetName=GND Pin=K5-A
+Added Pin To Net: NetName=VCC3.3V Pin=R16-2
+Added Pin To Net: NetName=ADC_IN4 Pin=U1-7
+Added Pin To Net: NetName=ADC_IN6 Pin=U1-9
+Added Pin To Net: NetName=ADC_IN3 Pin=U1-11
+Added Pin To Net: NetName=ADC_IN5 Pin=U1-12
+Added Pin To Net: NetName=ADC_IN1 Pin=U1-13
+Added Pin To Net: NetName=ADC_IN2 Pin=U1-14
+Added Pin To Net: NetName=PWM_MOTOR1+ Pin=U1-35
+Added Pin To Net: NetName=PWM_MOTOR1- Pin=U1-38
+Added Pin To Net: NetName=PWM_MOTOR2+ Pin=U1-41
+Added Pin To Net: NetName=PWM_MOTOR2- Pin=U1-44
+Added Pin To Net: NetName=PWM_SERVOMOTOR Pin=U1-54
+Added Pin To Net: NetName=TFT_SDI Pin=U1-56
+Added Pin To Net: NetName=TFT_SCK Pin=U1-57
+Added Pin To Net: NetName=TFT_D/C Pin=U1-58
+Added Pin To Net: NetName=TFT_RST Pin=U1-59
+Added Pin To Net: NetName=TFT_CS Pin=U1-60
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetRN1_1 New Net Name=NetRN2_1
+Change Net Name : Old Net Name=NetRN1_2 New Net Name=NetRN2_2
+Change Net Name : Old Net Name=NetRN1_3 New Net Name=NetRN2_3
+Change Net Name : Old Net Name=NetRN1_4 New Net Name=NetRN2_4
+Added Pin To Net: NetName=ADC_BAT Pin=R11-2
+Added Pin To Net: NetName=ADC_BAT Pin=U1-10
+Added Net: Name=ADC_BAT
+Added Pin To Net: NetName=CSI_DAT2 Pin=J9-18
+Added Pin To Net: NetName=CSI_DAT2 Pin=U1-92
+Added Net: Name=CSI_DAT2
+Added Pin To Net: NetName=CSI_DAT3 Pin=J9-3
+Added Pin To Net: NetName=CSI_DAT3 Pin=U1-91
+Added Net: Name=CSI_DAT3
+Added Pin To Net: NetName=CSI_DAT4 Pin=J9-17
+Added Pin To Net: NetName=CSI_DAT4 Pin=U1-95
+Added Net: Name=CSI_DAT4
+Added Pin To Net: NetName=CSI_DAT5 Pin=J9-4
+Added Pin To Net: NetName=CSI_DAT5 Pin=U1-94
+Added Net: Name=CSI_DAT5
+Added Pin To Net: NetName=CSI_DAT6 Pin=J9-16
+Added Pin To Net: NetName=CSI_DAT6 Pin=U1-93
+Added Net: Name=CSI_DAT6
+Added Pin To Net: NetName=CSI_DAT7 Pin=J9-5
+Added Pin To Net: NetName=CSI_DAT7 Pin=U1-98
+Added Net: Name=CSI_DAT7
+Added Pin To Net: NetName=CSI_DAT8 Pin=J9-15
+Added Pin To Net: NetName=CSI_DAT8 Pin=U1-97
+Added Net: Name=CSI_DAT8
+Added Pin To Net: NetName=CSI_DAT9 Pin=J9-6
+Added Pin To Net: NetName=CSI_DAT9 Pin=U1-96
+Added Net: Name=CSI_DAT9
+Added Pin To Net: NetName=CSI_HSYNC Pin=J9-8
+Added Net: Name=CSI_HSYNC
+Added Pin To Net: NetName=CSI_PIX1 Pin=J10-1
+Added Pin To Net: NetName=CSI_PIX1 Pin=U1-102
+Added Net: Name=CSI_PIX1
+Added Pin To Net: NetName=CSI_PIX2 Pin=J10-3
+Added Pin To Net: NetName=CSI_PIX2 Pin=U1-105
+Added Net: Name=CSI_PIX2
+Added Pin To Net: NetName=CSI_PIX Pin=J9-13
+Added Pin To Net: NetName=CSI_PIX Pin=J10-2
+Added Net: Name=CSI_PIX
+Added Pin To Net: NetName=CSI_VSYNC1 Pin=J11-3
+Added Pin To Net: NetName=CSI_VSYNC1 Pin=U1-110
+Added Net: Name=CSI_VSYNC1
+Added Pin To Net: NetName=CSI_VSYNC2 Pin=J11-1
+Added Pin To Net: NetName=CSI_VSYNC2 Pin=U1-64
+Added Net: Name=CSI_VSYNC2
+Added Pin To Net: NetName=CSI_VSYNC Pin=J9-9
+Added Pin To Net: NetName=CSI_VSYNC Pin=J11-2
+Added Net: Name=CSI_VSYNC
+Added Pin To Net: NetName=NetK5_B Pin=K5-B
+Added Pin To Net: NetName=NetK5_B Pin=R16-1
+Added Net: Name=NetK5_B
+Added Pin To Net: NetName=P11.2 Pin=J9-7
+Added Pin To Net: NetName=P11.2 Pin=U1-79
+Added Net: Name=P11.2
+Added Pin To Net: NetName=P11.3 Pin=J9-14
+Added Pin To Net: NetName=P11.3 Pin=U1-78
+Added Net: Name=P11.3
+Added Member To Class: ClassName=TC264MCU Member=Component C3 1000uF/35V
+Added Member To Class: ClassName=TC264MCU Member=Component J12 Header
+Added Member To Class: ClassName=TC264MCU Member=Component J13 Header
+Added Member To Class: ClassName=TC264MCU Member=Component K5 TS-Button_2P
+Added Member To Class: ClassName=TC264MCU Member=Component R11 2k
+Added Member To Class: ClassName=TC264MCU Member=Component R12 2.7k
+Added Member To Class: ClassName=TC264MCU Member=Component R18 1¦¸

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=FM1-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=Q2-1
+Removed Pin From Net: NetName=VCC_3.3V Pin=R15-1
+Removed Pin From Net: NetName=BUZZ Pin=R16-1
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Added Component: Designator=FM1(BUZZ-12*7.5)
+Added Component: Designator=Q2(SOT-23-3)
+Added Component: Designator=R12(RES_0603)
+Added Component: Designator=R13(RES_0603)
+Added Pin To Net: NetName=VCC_3.3V Pin=FM1-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=BUZZ Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR14_2
+Added Pin To Net: NetName=NetFM1_2 Pin=FM1-2
+Added Pin To Net: NetName=NetFM1_2 Pin=Q2-3
+Added Net: Name=NetFM1_2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R12-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R13-1
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=TC264MCUV02 Member=Component D8 SS54/5A/40V
+Added Member To Class: ClassName=TC264MCUV02 Member=Component Q1 IRLR7843TRPBF

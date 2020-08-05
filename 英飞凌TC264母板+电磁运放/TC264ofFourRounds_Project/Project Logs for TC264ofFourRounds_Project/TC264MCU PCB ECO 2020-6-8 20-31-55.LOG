@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VCC_5V Pin=C8-1
+Removed Pin From Net: NetName=7.2V Pin=D6-2
+Removed Pin From Net: NetName=7.2V Pin=F1-2
+Removed Pin From Net: NetName=VCC_5V Pin=L2-1
+Removed Pin From Net: NetName=VCC_5V Pin=U4-4
+Change Component Designator: OldDesignator=F2 NewDesignator=F3
+Added Component: Designator=F1(F1206)
+Added Component: Designator=F2(F1206)
+Added Pin To Net: NetName=7.2V Pin=C6-1
+Added Pin To Net: NetName=7.2V Pin=C7-1
+Added Pin To Net: NetName=7.2V Pin=F1-2
+Added Pin To Net: NetName=VCC_5V Pin=F2-2
+Added Pin To Net: NetName=7.2V Pin=U4-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U4-4
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=F1-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=L2-1
+Added Net: Name=NetF2_1
+Added Member To Class: ClassName=TC264MCU Member=Component F3 JK-NSMD100-16V
+Added Member To Class: ClassName=TC264MCU Member=Component R16 10k

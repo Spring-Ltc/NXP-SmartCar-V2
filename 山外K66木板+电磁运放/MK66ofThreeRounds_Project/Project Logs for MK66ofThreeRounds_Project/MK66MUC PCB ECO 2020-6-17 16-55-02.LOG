@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=VCC_5V Pin=C3-1
+Added Pin To Net: NetName=VCC_5V Pin=C4-1
+Added Pin To Net: NetName=VCC_5V Pin=C8-1
+Added Pin To Net: NetName=VCC_5V Pin=U1-8
+Added Pin To Net: NetName=VCC_5V Pin=U2-8
+Added Pin To Net: NetName=VCC_5V Pin=U3-8
+Added Member To Class: ClassName=MK66MCU Member=Component J8 Header

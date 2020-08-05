@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC8_1 Pin=F2-1
+Added Pin To Net: NetName=NetC8_1 Pin=L2-1
+Added Member To Class: ClassName=TC264MCU Member=Component F1 3A/16V
+Added Member To Class: ClassName=TC264MCU Member=Component F2 JK-NSMD100-16V

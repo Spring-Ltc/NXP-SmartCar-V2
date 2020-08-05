@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=LC1 Pin=J8-1
+Removed Pin From Net: NetName=LC2 Pin=J8-2
+Removed Pin From Net: NetName=LC3 Pin=J8-3
+Removed Pin From Net: NetName=LC4 Pin=J8-4
+Removed Pin From Net: NetName=LC5 Pin=J8-5
+Removed Pin From Net: NetName=LC6 Pin=J8-6
+Removed Pin From Net: NetName=GND Pin=J8-7
+Added Component: Designator=J8(Header 2.54X3)
+Added Component: Designator=J9(Header 2.54X3)
+Added Component: Designator=J10(Header 2.54X3)
+Added Pin To Net: NetName=LC1 Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=LC2 Pin=J8-3
+Added Pin To Net: NetName=LC3 Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=LC4 Pin=J9-3
+Added Pin To Net: NetName=LC5 Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=LC6 Pin=J10-3
+Added Member To Class: ClassName=MK66MCU Member=Component J8 Header
+Added Member To Class: ClassName=MK66MCU Member=Component J9 Header
+Added Member To Class: ClassName=MK66MCU Member=Component J10 Header

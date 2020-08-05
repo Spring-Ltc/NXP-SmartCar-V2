@@ -1,0 +1,99 @@
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Added Component: Designator=D3(LED_0603_B)
+Added Component: Designator=FM1(BUZZ-12*7.5)
+Added Component: Designator=K1(SW_SMD_6.1*3.7)
+Added Component: Designator=K2(SW_SMD_6.1*3.7)
+Added Component: Designator=K3(SW_SMD_6.1*3.7)
+Added Component: Designator=K4(SW_SMD_6.1*3.7)
+Added Component: Designator=Q1(TO_92A)
+Added Component: Designator=R10(RES_0603)
+Added Component: Designator=R11(RES_0603)
+Added Component: Designator=R12(RES_0603)
+Added Component: Designator=RN1(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=RN2(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=SW1(SW-TH_K3-1260D-K1)
+Added Component: Designator=SW2(MCEMR-04-T)
+Added Pin To Net: NetName=GND Pin=D3-C
+Added Pin To Net: NetName=GND Pin=FM1-2
+Added Pin To Net: NetName=GND Pin=K1-A
+Added Pin To Net: NetName=GND Pin=K2-A
+Added Pin To Net: NetName=GND Pin=K3-A
+Added Pin To Net: NetName=GND Pin=K4-A
+Added Pin To Net: NetName=VCC_5V Pin=Q1-1
+Added Pin To Net: NetName=7.2V Pin=R10-2
+Added Pin To Net: NetName=VCC_5V Pin=R11-1
+Added Pin To Net: NetName=7.2V Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-5
+Added Pin To Net: NetName=GND Pin=SW2-6
+Added Pin To Net: NetName=GND Pin=SW2-7
+Added Pin To Net: NetName=GND Pin=SW2-8
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR13_1
+Added Pin To Net: NetName=DC_POWERIN Pin=SW1-3
+Added Net: Name=DC_POWERIN
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R10-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetFM1_1 Pin=FM1-1
+Added Pin To Net: NetName=NetFM1_1 Pin=Q1-3
+Added Net: Name=NetFM1_1
+Added Pin To Net: NetName=NetK1_B Pin=K1-B
+Added Pin To Net: NetName=NetK1_B Pin=RN2-1
+Added Net: Name=NetK1_B
+Added Pin To Net: NetName=NetK2_B Pin=K2-B
+Added Pin To Net: NetName=NetK2_B Pin=RN2-2
+Added Net: Name=NetK2_B
+Added Pin To Net: NetName=NetK3_B Pin=K3-B
+Added Pin To Net: NetName=NetK3_B Pin=RN2-3
+Added Net: Name=NetK3_B
+Added Pin To Net: NetName=NetK4_B Pin=K4-B
+Added Pin To Net: NetName=NetK4_B Pin=RN2-4
+Added Net: Name=NetK4_B
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R11-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R12-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-1
+Added Pin To Net: NetName=NetRN1_1 Pin=SW2-4
+Added Net: Name=NetRN1_1
+Added Pin To Net: NetName=NetRN1_2 Pin=RN1-2
+Added Pin To Net: NetName=NetRN1_2 Pin=SW2-3
+Added Net: Name=NetRN1_2
+Added Pin To Net: NetName=NetRN1_3 Pin=RN1-3
+Added Pin To Net: NetName=NetRN1_3 Pin=SW2-2
+Added Net: Name=NetRN1_3
+Added Pin To Net: NetName=NetRN1_4 Pin=RN1-4
+Added Pin To Net: NetName=NetRN1_4 Pin=SW2-1
+Added Net: Name=NetRN1_4
+Added Pin To Net: NetName=VCC3.3V Pin=RN1-5
+Added Pin To Net: NetName=VCC3.3V Pin=RN1-6
+Added Pin To Net: NetName=VCC3.3V Pin=RN1-7
+Added Pin To Net: NetName=VCC3.3V Pin=RN1-8
+Added Pin To Net: NetName=VCC3.3V Pin=RN2-5
+Added Pin To Net: NetName=VCC3.3V Pin=RN2-6
+Added Pin To Net: NetName=VCC3.3V Pin=RN2-7
+Added Pin To Net: NetName=VCC3.3V Pin=RN2-8
+Added Net: Name=VCC3.3V
+Added Member To Class: ClassName=TC264MCU Member=Component C1 470uF/35V
+Added Member To Class: ClassName=TC264MCU Member=Component C2 220uF/25V
+Added Member To Class: ClassName=TC264MCU Member=Component D1 ZMM3V3
+Added Member To Class: ClassName=TC264MCU Member=Component D4 SS54/5A/40V
+Added Member To Class: ClassName=TC264MCU Member=Component FM1 BUZZER
+Added Member To Class: ClassName=TC264MCU Member=Component J1 Header
+Added Member To Class: ClassName=TC264MCU Member=Component K1 TS-Button_2P
+Added Member To Class: ClassName=TC264MCU Member=Component K2 TS-Button_2P
+Added Member To Class: ClassName=TC264MCU Member=Component K3 TS-Button_2P
+Added Member To Class: ClassName=TC264MCU Member=Component K4 TS-Button_2P
+Added Member To Class: ClassName=TC264MCU Member=Component L1 33uH
+Added Member To Class: ClassName=TC264MCU Member=Component Q1 2N3906
+Added Member To Class: ClassName=TC264MCU Member=Component R1 2k
+Added Member To Class: ClassName=TC264MCU Member=Component R12 1k
+Added Member To Class: ClassName=TC264MCU Member=Component R13 240K
+Added Member To Class: ClassName=TC264MCU Member=Component R14 1¦¸
+Added Member To Class: ClassName=TC264MCU Member=Component RN1 RESW4
+Added Member To Class: ClassName=TC264MCU Member=Component RN2 RESW4
+Added Member To Class: ClassName=TC264MCU Member=Component SW1 PowerSwitch
+Added Member To Class: ClassName=TC264MCU Member=Component SW2 ²¦Âë¿ª¹Ø4P
+Added Member To Class: ClassName=TC264MCU Member=Component U2 AS1015KBT

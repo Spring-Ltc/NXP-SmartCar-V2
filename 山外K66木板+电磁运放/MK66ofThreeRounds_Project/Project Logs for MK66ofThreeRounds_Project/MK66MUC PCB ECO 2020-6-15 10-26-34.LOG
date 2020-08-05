@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=DC_POWERIN Pin=P1-2
+Added Pin To Net: NetName=DC_POWERIN Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Member To Class: ClassName=MK66MCU Member=Component U9 TPS7350QDR

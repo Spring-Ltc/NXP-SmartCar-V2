@@ -1,0 +1,68 @@
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J9 NewDesignator=J10
+Change Component Designator: OldDesignator=J10 NewDesignator=J11
+Change Component Designator: OldDesignator=J11 NewDesignator=J12
+Change Component Designator: OldDesignator=J12 NewDesignator=J13
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Added Component: Designator=J5(HX2.54-2)
+Added Component: Designator=R6(RES_0603)
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R6-1
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=NetJ7_3
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR11_3 New Net Name=NetR12_3
+Change Net Name : Old Net Name=NetR12_3 New Net Name=NetR13_3
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR21_3 New Net Name=NetR22_3
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR29_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR38_1 New Net Name=NetR39_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=R6-2
+Added Net: Name=NetJ5_2
+Added Member To Class: ClassName=TC264MCUV02 Member=Component J13 Header
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R40 1¦¸

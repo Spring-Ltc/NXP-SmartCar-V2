@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=CSI_PIX Pin=J10-2
+Removed Pin From Net: NetName=CSI_VSYNC Pin=J11-2
+Removed Pin From Net: NetName=VEE Pin=P1-1
+Removed Pin From Net: NetName=DC_POWERIN Pin=P1-2
+Removed Member From Class: ClassName=TC264MCUV02 Member=J13
+Removed Member From Class: ClassName=TC264MCUV02 Member=P1
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C11
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=D8 NewDesignator=D10
+Change Component Designator: OldDesignator=D9 NewDesignator=D11
+Change Component Designator: OldDesignator=D10 NewDesignator=D8
+Change Component Designator: OldDesignator=D11 NewDesignator=D9
+Change Component Designator: OldDesignator=J12 NewDesignator=J10
+Change Component Designator: OldDesignator=J13 NewDesignator=J11
+Change Component Designator: OldDesignator=J14 NewDesignator=J12
+Change Component Designator: OldDesignator=R11 NewDesignator=R25
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R26
+Change Component Designator: OldDesignator=R21 NewDesignator=R27
+Change Component Designator: OldDesignator=R22 NewDesignator=R28
+Change Component Designator: OldDesignator=R23 NewDesignator=R29
+Change Component Designator: OldDesignator=R24 NewDesignator=R19
+Change Component Designator: OldDesignator=R25 NewDesignator=R20
+Change Component Designator: OldDesignator=R26 NewDesignator=R21
+Change Component Designator: OldDesignator=R27 NewDesignator=R22
+Change Component Designator: OldDesignator=R28 NewDesignator=R23
+Change Component Designator: OldDesignator=R29 NewDesignator=R24
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U4
+Added Component: Designator=JP2(XT60PW)
+Added Pin To Net: NetName=VEE Pin=JP2-1
+Added Pin To Net: NetName=DC_POWERIN Pin=JP2-2
+Added Pin To Net: NetName=CSI_VSYNC Pin=U1-64
+Added Pin To Net: NetName=CSI_PIX Pin=U1-102
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetD9_A New Net Name=NetD11_A
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR12_3 New Net Name=NetR11_3
+Change Net Name : Old Net Name=NetR13_3 New Net Name=NetR12_3
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR26_3 New Net Name=NetR21_3
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR22_1
+Added Member To Class: ClassName=TC264MCUV02 Member=Component D10 SS54/5A/40V
+Added Member To Class: ClassName=TC264MCUV02 Member=Component JP2 XT60PW
+Added Member To Class: ClassName=TC264MCUV02 Member=Component RN1 RESW4

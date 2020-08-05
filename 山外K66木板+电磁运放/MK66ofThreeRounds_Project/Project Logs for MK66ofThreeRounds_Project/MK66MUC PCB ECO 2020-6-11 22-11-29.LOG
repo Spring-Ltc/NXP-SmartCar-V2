@@ -1,0 +1,395 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=7.2V Pin=F1-2
+Removed Pin From Net: NetName=7.2V Pin=F2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Member From Class: ClassName=MK66MCU Member=C1
+Removed Member From Class: ClassName=MK66MCU Member=C2
+Removed Member From Class: ClassName=MK66MCU Member=C3
+Removed Member From Class: ClassName=MK66MCU Member=C4
+Removed Member From Class: ClassName=MK66MCU Member=C5
+Removed Member From Class: ClassName=MK66MCU Member=C6
+Removed Member From Class: ClassName=MK66MCU Member=C7
+Removed Member From Class: ClassName=MK66MCU Member=C8
+Removed Member From Class: ClassName=MK66MCU Member=F1
+Removed Member From Class: ClassName=MK66MCU Member=F2
+Removed Member From Class: ClassName=MK66MCU Member=R1
+Removed Member From Class: ClassName=MK66MCU Member=R2
+Removed Member From Class: ClassName=MK66MCU Member=R3
+Removed Member From Class: ClassName=MK66MCU Member=R4
+Removed Member From Class: ClassName=MK66MCU Member=R5
+Removed Member From Class: ClassName=MK66MCU Member=R6
+Removed Member From Class: ClassName=MK66MCU Member=R7
+Removed Member From Class: ClassName=MK66MCU Member=R8
+Removed Member From Class: ClassName=MK66MCU Member=U1
+Removed Member From Class: ClassName=MK66MCU Member=U2
+Removed Member From Class: ClassName=MK66MCU Member=U3
+Removed Member From Class: ClassName=MK66MCU Member=U4
+Added Component: Designator=C?(CAPE_SMD_F_8.4)
+Added Component: Designator=C?(CAPE_SMD_G_10.6)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAPE_SMD_D_6.4)
+Added Component: Designator=C?(CAPE_SMD_F_8.4)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=D?(LL-34_L3.5-W1.5-RD)
+Added Component: Designator=D?(LL-34_L3.5-W1.5-RD)
+Added Component: Designator=D?(DO214_SMA)
+Added Component: Designator=D?(DO214_SMA)
+Added Component: Designator=D?(DO214_SMA)
+Added Component: Designator=D?(LL-34_L3.5-W1.5-RD)
+Added Component: Designator=D?(LL-34_L3.5-W1.5-RD)
+Added Component: Designator=D?(LL-34_L3.5-W1.5-RD)
+Added Component: Designator=D?(LL-34_L3.5-W1.5-RD)
+Added Component: Designator=D?(LED_0603_B)
+Added Component: Designator=D?(LL-34_L3.5-W1.5-RD)
+Added Component: Designator=F?(F1206)
+Added Component: Designator=F?(F1206)
+Added Component: Designator=F?(F1206)
+Added Component: Designator=FM?(BUZZ-12*7.5)
+Added Component: Designator=J?(Header 2.54X6)
+Added Component: Designator=J?(Header F 2.54X4)
+Added Component: Designator=J?(Header 2.54X3)
+Added Component: Designator=J?(Header 2.54_2X3)
+Added Component: Designator=J?(Header 2.54_2X3)
+Added Component: Designator=J?(Header 2.54X4)
+Added Component: Designator=J?(Header 2.54X6)
+Added Component: Designator=J?(Header 2.54X8)
+Added Component: Designator=JP?(FPC_1.0_8P)
+Added Component: Designator=K?(SW_SMD_6.1*3.7)
+Added Component: Designator=K?(SW_SMD_6.1*3.7)
+Added Component: Designator=K?(SW_SMD_6.1*3.7)
+Added Component: Designator=K?(SW_SMD_6.1*3.7)
+Added Component: Designator=K?(SW_SMD_6.1*3.7)
+Added Component: Designator=L?(IND-SMD_L8.0-W8.0)
+Added Component: Designator=P?(KF_2P-5.08)
+Added Component: Designator=Q?(TO_92A)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=RN?(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=RN?(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=SW?(MCEMR-04-T)
+Added Component: Designator=SW?(SW-TH_K3-1260D-K1)
+Added Component: Designator=U?(SOT-223_3)
+Added Component: Designator=U?(TO-263_5)
+Added Component: Designator=U?(SOIC-8_150MIL)
+Added Pin To Net: NetName=7.2V Pin=C?-1
+Added Pin To Net: NetName=7.2V Pin=C?-1
+Added Pin To Net: NetName=7.2V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-C
+Added Pin To Net: NetName=7.2V Pin=F?-2
+Added Pin To Net: NetName=GND Pin=FM?-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=JP?-8
+Added Pin To Net: NetName=GND Pin=K?-A
+Added Pin To Net: NetName=GND Pin=K?-A
+Added Pin To Net: NetName=GND Pin=K?-A
+Added Pin To Net: NetName=GND Pin=K?-A
+Added Pin To Net: NetName=GND Pin=K?-A
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=7.2V Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=7.2V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=SW?-5
+Added Pin To Net: NetName=GND Pin=SW?-6
+Added Pin To Net: NetName=GND Pin=SW?-7
+Added Pin To Net: NetName=GND Pin=SW?-8
+Added Pin To Net: NetName=7.2V Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=ADC_BAT Pin=R?-2
+Added Net: Name=ADC_BAT
+Added Pin To Net: NetName=ADC_IN1 Pin=D?-1
+Added Pin To Net: NetName=ADC_IN1 Pin=RN?-8
+Added Net: Name=ADC_IN1
+Added Pin To Net: NetName=ADC_IN2 Pin=D?-1
+Added Pin To Net: NetName=ADC_IN2 Pin=RN?-7
+Added Net: Name=ADC_IN2
+Added Pin To Net: NetName=ADC_IN3 Pin=D?-1
+Added Pin To Net: NetName=ADC_IN3 Pin=RN?-6
+Added Net: Name=ADC_IN3
+Added Pin To Net: NetName=ADC_IN4 Pin=D?-1
+Added Pin To Net: NetName=ADC_IN4 Pin=RN?-5
+Added Net: Name=ADC_IN4
+Added Pin To Net: NetName=ADC_MOTOR1_IN Pin=J?-8
+Added Pin To Net: NetName=ADC_MOTOR1_IN Pin=JP?-1
+Added Pin To Net: NetName=ADC_MOTOR1_IN Pin=R?-2
+Added Net: Name=ADC_MOTOR1_IN
+Added Pin To Net: NetName=ADC_MOTOR1 Pin=D?-1
+Added Pin To Net: NetName=ADC_MOTOR1 Pin=R?-1
+Added Net: Name=ADC_MOTOR1
+Added Pin To Net: NetName=ADC_MOTOR2_IN Pin=J?-7
+Added Pin To Net: NetName=ADC_MOTOR2_IN Pin=JP?-2
+Added Pin To Net: NetName=ADC_MOTOR2_IN Pin=R?-2
+Added Net: Name=ADC_MOTOR2_IN
+Added Pin To Net: NetName=ADC_MOTOR2 Pin=D?-1
+Added Pin To Net: NetName=ADC_MOTOR2 Pin=R?-1
+Added Net: Name=ADC_MOTOR2
+Added Pin To Net: NetName=BT_RX Pin=R?-1
+Added Net: Name=BT_RX
+Added Pin To Net: NetName=BT_TX Pin=R?-1
+Added Net: Name=BT_TX
+Added Pin To Net: NetName=BUZZ Pin=R?-1
+Added Net: Name=BUZZ
+Added Pin To Net: NetName=DC_POWERIN Pin=P?-2
+Added Pin To Net: NetName=DC_POWERIN Pin=SW?-3
+Added Net: Name=DC_POWERIN
+Added Pin To Net: NetName=ENCODE1_DIR Pin=J?-5
+Added Net: Name=ENCODE1_DIR
+Added Pin To Net: NetName=ENCODE1_LSB Pin=J?-2
+Added Net: Name=ENCODE1_LSB
+Added Pin To Net: NetName=ENCODE2_DIR Pin=J?-5
+Added Net: Name=ENCODE2_DIR
+Added Pin To Net: NetName=ENCODE2_LSB Pin=J?-2
+Added Net: Name=ENCODE2_LSB
+Added Pin To Net: NetName=IIC_SCL Pin=J?-3
+Added Pin To Net: NetName=IIC_SCL Pin=J?-6
+Added Net: Name=IIC_SCL
+Added Pin To Net: NetName=IIC_SDA Pin=J?-4
+Added Pin To Net: NetName=IIC_SDA Pin=J?-5
+Added Net: Name=IIC_SDA
+Added Pin To Net: NetName=KEY1 Pin=K?-B
+Added Pin To Net: NetName=KEY1 Pin=R?-1
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=K?-B
+Added Pin To Net: NetName=KEY2 Pin=R?-1
+Added Net: Name=KEY2
+Added Pin To Net: NetName=KEY3 Pin=K?-B
+Added Pin To Net: NetName=KEY3 Pin=R?-1
+Added Net: Name=KEY3
+Added Pin To Net: NetName=KEY4 Pin=K?-B
+Added Pin To Net: NetName=KEY4 Pin=R?-1
+Added Net: Name=KEY4
+Added Pin To Net: NetName=KEY5 Pin=K?-B
+Added Pin To Net: NetName=KEY5 Pin=R?-1
+Added Net: Name=KEY5
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=F?-1
+Added Pin To Net: NetName=NetC?_1 Pin=L?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-4
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=SW?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=L?-2
+Added Pin To Net: NetName=NetD?_2 Pin=U?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=R?-1
+Added Net: Name=NetD?_A
+Added Pin To Net: NetName=NetFM?_1 Pin=FM?-1
+Added Pin To Net: NetName=NetFM?_1 Pin=Q?-3
+Added Net: Name=NetFM?_1
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=R?-2
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=R?-2
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=RN?-2
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetJ?_6 Pin=J?-6
+Added Pin To Net: NetName=NetJ?_6 Pin=RN?-1
+Added Net: Name=NetJ?_6
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-2
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=PWM_MOTOR1+ Pin=J?-5
+Added Pin To Net: NetName=PWM_MOTOR1+ Pin=JP?-4
+Added Net: Name=PWM_MOTOR1+
+Added Pin To Net: NetName=PWM_MOTOR1- Pin=J?-4
+Added Pin To Net: NetName=PWM_MOTOR1- Pin=JP?-5
+Added Net: Name=PWM_MOTOR1-
+Added Pin To Net: NetName=PWM_MOTOR2+ Pin=J?-3
+Added Pin To Net: NetName=PWM_MOTOR2+ Pin=JP?-6
+Added Net: Name=PWM_MOTOR2+
+Added Pin To Net: NetName=PWM_MOTOR2- Pin=J?-2
+Added Pin To Net: NetName=PWM_MOTOR2- Pin=JP?-7
+Added Net: Name=PWM_MOTOR2-
+Added Pin To Net: NetName=PWM_SERVOMOTOR Pin=D?-1
+Added Pin To Net: NetName=PWM_SERVOMOTOR Pin=R?-1
+Added Net: Name=PWM_SERVOMOTOR
+Added Pin To Net: NetName=SW1 Pin=RN?-4
+Added Pin To Net: NetName=SW1 Pin=SW?-1
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=RN?-3
+Added Pin To Net: NetName=SW2 Pin=SW?-2
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=RN?-2
+Added Pin To Net: NetName=SW3 Pin=SW?-3
+Added Net: Name=SW3
+Added Pin To Net: NetName=SW4 Pin=RN?-1
+Added Pin To Net: NetName=SW4 Pin=SW?-4
+Added Net: Name=SW4
+Added Pin To Net: NetName=TOF_RXD Pin=J?-3
+Added Net: Name=TOF_RXD
+Added Pin To Net: NetName=TOF_TXD Pin=J?-4
+Added Net: Name=TOF_TXD
+Added Pin To Net: NetName=VCC3.3_MCU Pin=R?-2
+Added Net: Name=VCC3.3_MCU
+Added Pin To Net: NetName=VCC_3.3V Pin=C?-1
+Added Pin To Net: NetName=VCC_3.3V Pin=J?-1
+Added Pin To Net: NetName=VCC_3.3V Pin=J?-2
+Added Pin To Net: NetName=VCC_3.3V Pin=Q?-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R?-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R?-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R?-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R?-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R?-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R?-2
+Added Pin To Net: NetName=VCC_3.3V Pin=RN?-5
+Added Pin To Net: NetName=VCC_3.3V Pin=RN?-6
+Added Pin To Net: NetName=VCC_3.3V Pin=RN?-7
+Added Pin To Net: NetName=VCC_3.3V Pin=RN?-8
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-2
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-4
+Added Net: Name=VCC_3.3V
+Added Pin To Net: NetName=VCC_5V Pin=C?-1
+Added Pin To Net: NetName=VCC_5V Pin=D?-2
+Added Pin To Net: NetName=VCC_5V Pin=F?-2
+Added Pin To Net: NetName=VCC_5V Pin=J?-1
+Added Pin To Net: NetName=VCC_5V Pin=J?-2
+Added Pin To Net: NetName=VCC_5V Pin=J?-6
+Added Pin To Net: NetName=VCC_5V Pin=J?-6
+Added Pin To Net: NetName=VCC_5V Pin=U?-3
+Added Net: Name=VCC_5V
+Added Pin To Net: NetName=VCC_SERVOMOTOR Pin=J?-2
+Added Net: Name=VCC_SERVOMOTOR
+Added Member To Class: ClassName=MK66MCU Member=Component C? 470uF/35V
+Added Member To Class: ClassName=MK66MCU Member=Component C? 1000uF/35V
+Added Member To Class: ClassName=MK66MCU Member=Component C? 104
+Added Member To Class: ClassName=MK66MCU Member=Component C? 106
+Added Member To Class: ClassName=MK66MCU Member=Component C? 106
+Added Member To Class: ClassName=MK66MCU Member=Component C? 220uF/25V
+Added Member To Class: ClassName=MK66MCU Member=Component C? 470uF/35V
+Added Member To Class: ClassName=MK66MCU Member=Component C? 104
+Added Member To Class: ClassName=MK66MCU Member=Component C? 106
+Added Member To Class: ClassName=MK66MCU Member=Component D? ZMM3V3
+Added Member To Class: ClassName=MK66MCU Member=Component D? ZMM3V3
+Added Member To Class: ClassName=MK66MCU Member=Component D? SS54/5A/40V
+Added Member To Class: ClassName=MK66MCU Member=Component D? SS54/5A/40V
+Added Member To Class: ClassName=MK66MCU Member=Component D? SS54/5A/40V
+Added Member To Class: ClassName=MK66MCU Member=Component D? ZMM3V3
+Added Member To Class: ClassName=MK66MCU Member=Component D? ZMM3V3
+Added Member To Class: ClassName=MK66MCU Member=Component D? ZMM3V3
+Added Member To Class: ClassName=MK66MCU Member=Component D? ZMM3V3
+Added Member To Class: ClassName=MK66MCU Member=Component D? LED
+Added Member To Class: ClassName=MK66MCU Member=Component D? ZMM3V3
+Added Member To Class: ClassName=MK66MCU Member=Component F? JK-NSMD100-16V
+Added Member To Class: ClassName=MK66MCU Member=Component F? 3A/16V
+Added Member To Class: ClassName=MK66MCU Member=Component F? JK-NSMD100-16V
+Added Member To Class: ClassName=MK66MCU Member=Component FM? BUZZER
+Added Member To Class: ClassName=MK66MCU Member=Component J? Header
+Added Member To Class: ClassName=MK66MCU Member=Component J? Header
+Added Member To Class: ClassName=MK66MCU Member=Component J? Header
+Added Member To Class: ClassName=MK66MCU Member=Component J? Header
+Added Member To Class: ClassName=MK66MCU Member=Component J? Header
+Added Member To Class: ClassName=MK66MCU Member=Component J? Header
+Added Member To Class: ClassName=MK66MCU Member=Component J? Header
+Added Member To Class: ClassName=MK66MCU Member=Component J? Header
+Added Member To Class: ClassName=MK66MCU Member=Component JP? FPC_8pin
+Added Member To Class: ClassName=MK66MCU Member=Component K? TS-Button_2P
+Added Member To Class: ClassName=MK66MCU Member=Component K? TS-Button_2P
+Added Member To Class: ClassName=MK66MCU Member=Component K? TS-Button_2P
+Added Member To Class: ClassName=MK66MCU Member=Component K? TS-Button_2P
+Added Member To Class: ClassName=MK66MCU Member=Component K? TS-Button_2P
+Added Member To Class: ClassName=MK66MCU Member=Component L? 33uH
+Added Member To Class: ClassName=MK66MCU Member=Component P? KF-2P-5.08
+Added Member To Class: ClassName=MK66MCU Member=Component Q? 2N3906
+Added Member To Class: ClassName=MK66MCU Member=Component R? 0¦¸
+Added Member To Class: ClassName=MK66MCU Member=Component R? 2k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 2k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 10k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 10k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 10k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 10k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 1k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 1k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 10k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 2k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 1k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 4.7k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 10k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 1k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 2k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 2k
+Added Member To Class: ClassName=MK66MCU Member=Component R? 1¦¸
+Added Member To Class: ClassName=MK66MCU Member=Component R? 240K
+Added Member To Class: ClassName=MK66MCU Member=Component RN? 2k
+Added Member To Class: ClassName=MK66MCU Member=Component RN? 10k
+Added Member To Class: ClassName=MK66MCU Member=Component SW? ²¦Âë¿ª¹Ø4P
+Added Member To Class: ClassName=MK66MCU Member=Component SW? PowerSwitch
+Added Member To Class: ClassName=MK66MCU Member=Component U? AMS1117-3.3
+Added Member To Class: ClassName=MK66MCU Member=Component U? LM2596S-5.0/TR_C340931
+Added Member To Class: ClassName=MK66MCU Member=Component U? TPS7333QDR
+Added Room: Name=MK66MCU

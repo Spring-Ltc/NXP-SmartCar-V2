@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=CAMERAL_D0 Pin=J8-1
+Added Pin To Net: NetName=CAMERAL_D1 Pin=J8-2
+Added Pin To Net: NetName=CAMERAL_D2 Pin=J8-3
+Added Pin To Net: NetName=CAMERAL_D3 Pin=J8-4
+Added Pin To Net: NetName=CAMERAL_D4 Pin=J8-5
+Added Pin To Net: NetName=CAMERAL_D5 Pin=J8-6
+Added Pin To Net: NetName=CAMERAL_D6 Pin=J8-7
+Added Pin To Net: NetName=CAMERAL_D7 Pin=J8-8
+Added Pin To Net: NetName=CAMERAL_SCL Pin=J8-9
+Added Pin To Net: NetName=CAMERAL_SDA Pin=J8-10
+Added Pin To Net: NetName=GND Pin=J8-11
+Added Pin To Net: NetName=CAMERAL_HREF Pin=J8-12
+Added Pin To Net: NetName=CAMERAL_VSYNC Pin=J8-15
+Added Pin To Net: NetName=CAMERAL_PCLK Pin=J8-17
+Added Pin To Net: NetName=VCC_3.3V Pin=J8-20
+Added Member To Class: ClassName=MK66MCU Member=Component J8 Header

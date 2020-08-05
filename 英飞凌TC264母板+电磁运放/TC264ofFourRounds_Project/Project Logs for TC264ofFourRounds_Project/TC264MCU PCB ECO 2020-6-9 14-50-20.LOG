@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VCC_3.3V Pin=R17-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R18-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R19-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R20-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R21-2
+Added Pin To Net: NetName=VCC_3.3V Pin=RN2-5
+Added Pin To Net: NetName=VCC_3.3V Pin=RN2-6
+Added Pin To Net: NetName=VCC_3.3V Pin=RN2-7
+Added Pin To Net: NetName=VCC_3.3V Pin=RN2-8
+Added Member To Class: ClassName=TC264MCU Member=Component R4 200

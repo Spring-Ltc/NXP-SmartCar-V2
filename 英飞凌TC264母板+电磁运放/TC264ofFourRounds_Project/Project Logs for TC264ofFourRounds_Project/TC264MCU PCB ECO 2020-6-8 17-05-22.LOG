@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=BUZZ Pin=U1-15
+Added Pin To Net: NetName=BUZZ Pin=U1-62
+Added Room: Name=TC264MCU

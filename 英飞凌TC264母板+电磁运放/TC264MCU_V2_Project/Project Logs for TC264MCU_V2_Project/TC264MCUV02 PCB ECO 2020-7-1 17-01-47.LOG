@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=GND Pin=J8-1
+Removed Pin From Net: NetName=ENCODE1_LSB Pin=J8-2
+Removed Pin From Net: NetName=ENCODE1_DIR Pin=J8-5
+Removed Pin From Net: NetName=VCC_5V Pin=J8-6
+Removed Pin From Net: NetName=GND Pin=J10-1
+Removed Pin From Net: NetName=ENCODE2_LSB Pin=J10-2
+Removed Pin From Net: NetName=ENCODE2_DIR Pin=J10-5
+Removed Pin From Net: NetName=VCC_5V Pin=J10-6
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J9 NewDesignator=J11
+Change Component Designator: OldDesignator=J11 NewDesignator=J12
+Change Component Designator: OldDesignator=J12 NewDesignator=J13
+Change Component Designator: OldDesignator=J13 NewDesignator=J14
+Change Component Designator: OldDesignator=K1 NewDesignator=K2
+Change Component Designator: OldDesignator=K2 NewDesignator=K3
+Change Component Designator: OldDesignator=K3 NewDesignator=K4
+Change Component Designator: OldDesignator=K4 NewDesignator=K5
+Change Component Designator: OldDesignator=K5 NewDesignator=K6
+Added Component: Designator=J5(IDC_10P)
+Added Component: Designator=J9(IDC_6P)
+Added Component: Designator=J10(IDC_6P)
+Added Component: Designator=K1(SW_SMD_6.1*3.7)
+Added Pin To Net: NetName=VCC3.3_MCU Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=ENCODE1_LSB Pin=J9-2
+Added Pin To Net: NetName=ENCODE1_DIR Pin=J9-5
+Added Pin To Net: NetName=VCC_5V Pin=J9-6
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=ENCODE2_LSB Pin=J10-2
+Added Pin To Net: NetName=ENCODE2_DIR Pin=J10-5
+Added Pin To Net: NetName=VCC_5V Pin=J10-6
+Added Pin To Net: NetName=GND Pin=K1-B
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetJ6_2
+Change Net Name : Old Net Name=NetJ7_3 New Net Name=NetJ8_3
+Added Pin To Net: NetName=P14.0/TX Pin=J5-4
+Added Pin To Net: NetName=P14.0/TX Pin=U1-37
+Added Net: Name=P14.0/TX
+Added Pin To Net: NetName=P14.1/RX Pin=J5-5
+Added Pin To Net: NetName=P14.1/RX Pin=U1-34
+Added Net: Name=P14.1/RX
+Added Pin To Net: NetName=PORST Pin=J5-6
+Added Pin To Net: NetName=PORST Pin=K1-A
+Added Pin To Net: NetName=PORST Pin=U1-33
+Added Net: Name=PORST
+Added Pin To Net: NetName=TCK Pin=J5-9
+Added Pin To Net: NetName=TCK Pin=U1-42
+Added Net: Name=TCK
+Added Pin To Net: NetName=TDO/P21.7 Pin=J5-8
+Added Pin To Net: NetName=TDO/P21.7 Pin=U1-39
+Added Net: Name=TDO/P21.7
+Added Pin To Net: NetName=TMS Pin=J5-10
+Added Pin To Net: NetName=TMS Pin=U1-45
+Added Net: Name=TMS
+Added Pin To Net: NetName=TRST Pin=J5-7
+Added Pin To Net: NetName=TRST Pin=U1-36
+Added Net: Name=TRST
+Added Member To Class: ClassName=TC264MCUV02 Member=Component J14 Header
+Added Member To Class: ClassName=TC264MCUV02 Member=Component K6 TS-Button_2P
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R6 4.7k

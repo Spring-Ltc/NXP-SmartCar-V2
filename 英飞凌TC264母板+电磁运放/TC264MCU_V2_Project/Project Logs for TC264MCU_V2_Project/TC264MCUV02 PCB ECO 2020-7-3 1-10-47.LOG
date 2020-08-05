@@ -1,0 +1,9 @@
+Added Component: Designator=JM(Header 2.54X8)
+Added Pin To Net: NetName=GND Pin=JM-1
+Added Pin To Net: NetName=PWM_MOTOR2- Pin=JM-2
+Added Pin To Net: NetName=PWM_MOTOR2+ Pin=JM-3
+Added Pin To Net: NetName=PWM_MOTOR1- Pin=JM-4
+Added Pin To Net: NetName=PWM_MOTOR1+ Pin=JM-5
+Added Pin To Net: NetName=ADC_MOTOR2_IN Pin=JM-7
+Added Pin To Net: NetName=ADC_MOTOR1_IN Pin=JM-8
+Added Member To Class: ClassName=TC264MCUV02 Member=Component JM Header

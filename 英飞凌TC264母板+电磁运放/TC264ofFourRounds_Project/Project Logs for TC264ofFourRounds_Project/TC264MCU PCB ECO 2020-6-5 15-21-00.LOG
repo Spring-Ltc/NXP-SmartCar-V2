@@ -1,0 +1,131 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Change Component Designator: OldDesignator=R2 NewDesignator=R6
+Added Component: Designator=J1(Header 2.54X8)
+Added Component: Designator=J2(Header 2.54X8)
+Added Component: Designator=J3(Header F 2.54X7)
+Added Component: Designator=J4(Header 2.54X6)
+Added Component: Designator=J5(Header 2.54X3)
+Added Component: Designator=J6(Header 2.54X4)
+Added Component: Designator=J7(Header 2.54_2X3)
+Added Component: Designator=J8(Header 2.54_2X3)
+Added Component: Designator=J9(Header F 2.54_2x10)
+Added Component: Designator=JP1(FPC_1.0_8P)
+Added Component: Designator=R1(RES_0603)
+Added Component: Designator=R2(RES_0603)
+Added Component: Designator=R3(RES_0603)
+Added Component: Designator=R4(RES_0603)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J8-1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR5_1
+Added Pin To Net: NetName=ADC_IN1 Pin=J1-3
+Added Net: Name=ADC_IN1
+Added Pin To Net: NetName=ADC_IN2 Pin=J1-4
+Added Net: Name=ADC_IN2
+Added Pin To Net: NetName=ADC_IN3 Pin=J1-5
+Added Net: Name=ADC_IN3
+Added Pin To Net: NetName=ADC_IN4 Pin=J1-6
+Added Net: Name=ADC_IN4
+Added Pin To Net: NetName=ADC_IN5 Pin=J1-7
+Added Net: Name=ADC_IN5
+Added Pin To Net: NetName=ADC_IN6 Pin=J1-8
+Added Net: Name=ADC_IN6
+Added Pin To Net: NetName=ADC_MOTOR1 Pin=J2-8
+Added Net: Name=ADC_MOTOR1
+Added Pin To Net: NetName=ADC_MOTOR2 Pin=J2-7
+Added Net: Name=ADC_MOTOR2
+Added Pin To Net: NetName=ENCODE1_DIR Pin=J7-5
+Added Net: Name=ENCODE1_DIR
+Added Pin To Net: NetName=ENCODE1_LSB Pin=J7-2
+Added Net: Name=ENCODE1_LSB
+Added Pin To Net: NetName=ENCODE2_DIR Pin=J8-5
+Added Net: Name=ENCODE2_DIR
+Added Pin To Net: NetName=ENCODE2_LSB Pin=J8-2
+Added Net: Name=ENCODE2_LSB
+Added Pin To Net: NetName=MPU6050_SCL Pin=J6-3
+Added Net: Name=MPU6050_SCL
+Added Pin To Net: NetName=MPU6050_SDA Pin=J6-4
+Added Net: Name=MPU6050_SDA
+Added Pin To Net: NetName=NC Pin=J2-6
+Added Pin To Net: NetName=NC Pin=J7-3
+Added Pin To Net: NetName=NC Pin=J7-4
+Added Pin To Net: NetName=NC Pin=J8-3
+Added Pin To Net: NetName=NC Pin=J8-4
+Added Net: Name=NC
+Added Pin To Net: NetName=PWM_MOTOR1+ Pin=J2-5
+Added Net: Name=PWM_MOTOR1+
+Added Pin To Net: NetName=PWM_MOTOR1- Pin=J2-4
+Added Net: Name=PWM_MOTOR1-
+Added Pin To Net: NetName=PWM_MOTOR2+ Pin=J2-3
+Added Net: Name=PWM_MOTOR2+
+Added Pin To Net: NetName=PWM_MOTOR2- Pin=J2-2
+Added Net: Name=PWM_MOTOR2-
+Added Pin To Net: NetName=PWM_SERVOMOTOR Pin=J5-3
+Added Net: Name=PWM_SERVOMOTOR
+Added Pin To Net: NetName=TFT_CS Pin=J3-3
+Added Net: Name=TFT_CS
+Added Pin To Net: NetName=TFT_D/C Pin=J3-6
+Added Net: Name=TFT_D/C
+Added Pin To Net: NetName=TFT_RST Pin=J3-7
+Added Net: Name=TFT_RST
+Added Pin To Net: NetName=TFT_SCK Pin=J3-4
+Added Net: Name=TFT_SCK
+Added Pin To Net: NetName=TFT_SDI Pin=J3-5
+Added Net: Name=TFT_SDI
+Added Pin To Net: NetName=TOF_RXD Pin=J4-3
+Added Net: Name=TOF_RXD
+Added Pin To Net: NetName=TOF_SCL Pin=J4-6
+Added Net: Name=TOF_SCL
+Added Pin To Net: NetName=TOF_SDA Pin=J4-5
+Added Net: Name=TOF_SDA
+Added Pin To Net: NetName=TOF_TXD Pin=J4-4
+Added Net: Name=TOF_TXD
+Added Pin To Net: NetName=VCC_3.3V Pin=J3-2
+Added Pin To Net: NetName=VCC_3.3V Pin=J7-6
+Added Pin To Net: NetName=VCC_3.3V Pin=J8-6
+Added Pin To Net: NetName=VCC_3.3V Pin=R1-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R3-2
+Added Net: Name=VCC_3.3V
+Added Pin To Net: NetName=VCC_5V Pin=J1-2
+Added Pin To Net: NetName=VCC_5V Pin=R2-2
+Added Pin To Net: NetName=VCC_5V Pin=R4-2
+Added Net: Name=VCC_5V
+Added Pin To Net: NetName=VCC_MPU6050 Pin=J6-1
+Added Pin To Net: NetName=VCC_MPU6050 Pin=R3-1
+Added Pin To Net: NetName=VCC_MPU6050 Pin=R4-1
+Added Net: Name=VCC_MPU6050
+Added Pin To Net: NetName=VCC_SERVOMOTOR Pin=J5-2
+Added Net: Name=VCC_SERVOMOTOR
+Added Pin To Net: NetName=VCC_TOF Pin=J4-2
+Added Pin To Net: NetName=VCC_TOF Pin=R1-1
+Added Pin To Net: NetName=VCC_TOF Pin=R2-1
+Added Net: Name=VCC_TOF
+Added Member To Class: ClassName=TC264MCU Member=Component C1 106
+Added Member To Class: ClassName=TC264MCU Member=Component C2 106
+Added Member To Class: ClassName=TC264MCU Member=Component C3 104
+Added Member To Class: ClassName=TC264MCU Member=Component C4 470uF/35V
+Added Member To Class: ClassName=TC264MCU Member=Component C5 220uF/25V
+Added Member To Class: ClassName=TC264MCU Member=Component F1 3A/16V
+Added Member To Class: ClassName=TC264MCU Member=Component J1 Header
+Added Member To Class: ClassName=TC264MCU Member=Component J2 Header
+Added Member To Class: ClassName=TC264MCU Member=Component J3 Header
+Added Member To Class: ClassName=TC264MCU Member=Component J4 Header
+Added Member To Class: ClassName=TC264MCU Member=Component J5 Header
+Added Member To Class: ClassName=TC264MCU Member=Component J6 Header
+Added Member To Class: ClassName=TC264MCU Member=Component J7 Header
+Added Member To Class: ClassName=TC264MCU Member=Component J8 Header
+Added Member To Class: ClassName=TC264MCU Member=Component J9 Header
+Added Member To Class: ClassName=TC264MCU Member=Component JP1 FPC_8pin
+Added Member To Class: ClassName=TC264MCU Member=Component R2 0次
+Added Member To Class: ClassName=TC264MCU Member=Component R3 0次
+Added Member To Class: ClassName=TC264MCU Member=Component R4 0次
+Added Member To Class: ClassName=TC264MCU Member=Component R5 240K
+Added Member To Class: ClassName=TC264MCU Member=Component R6 1次
+Added Member To Class: ClassName=TC264MCU Member=Component U2 AMS1117-3.3
+Added Member To Class: ClassName=TC264MCU Member=Component U3 LM2596S-5.0/TR_C340931
+Added Room: Name=TC264MCU

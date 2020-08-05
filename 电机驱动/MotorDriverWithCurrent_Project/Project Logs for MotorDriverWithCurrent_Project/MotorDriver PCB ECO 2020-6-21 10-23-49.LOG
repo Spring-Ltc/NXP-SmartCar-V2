@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=VCC_5V Pin=U6-4
+Added Pin To Net: NetName=VCC_3.3V Pin=U8-4
+Added Member To Class: ClassName=MotorDriver Member=Component C3 470uF/35V
+Added Member To Class: ClassName=MotorDriver Member=Component D2 LED
+Added Member To Class: ClassName=MotorDriver Member=Component D3 LED
+Added Member To Class: ClassName=MotorDriver Member=Component R1 0¦¸
+Added Member To Class: ClassName=MotorDriver Member=Component R2 390
+Added Member To Class: ClassName=MotorDriver Member=Component R21 510
+Added Member To Class: ClassName=MotorDriver Member=Component R22 2k
+Added Member To Class: ClassName=MotorDriver Member=Component R23 2k
+Added Member To Class: ClassName=MotorDriver Member=Component R24 2M
+Added Member To Class: ClassName=MotorDriver Member=Component R30 10k
+Added Member To Class: ClassName=MotorDriver Member=Component R31 510

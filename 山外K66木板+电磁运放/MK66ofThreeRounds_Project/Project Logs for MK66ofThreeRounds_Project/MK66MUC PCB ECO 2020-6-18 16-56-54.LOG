@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BT_TX Pin=U5-18
+Added Pin To Net: NetName=BT_RX Pin=U5-19
+Added Pin To Net: NetName=TOF_RXD Pin=U5-38
+Added Pin To Net: NetName=TOF_TXD Pin=U5-39

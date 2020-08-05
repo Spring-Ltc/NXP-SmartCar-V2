@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=TFT_CS Pin=J3-3
+Removed Pin From Net: NetName=TFT_SCK Pin=J3-4
+Removed Pin From Net: NetName=TFT_SDI Pin=J3-5
+Removed Pin From Net: NetName=TFT_D/C Pin=J3-6
+Removed Pin From Net: NetName=TFT_RST Pin=J3-7
+Removed Pin From Net: NetName=VCC_3.3V Pin=R4-1
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=J8 NewDesignator=J7
+Change Component Designator: OldDesignator=J9 NewDesignator=J8
+Change Component Designator: OldDesignator=J10 NewDesignator=J9
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=J12 NewDesignator=J11
+Change Component Designator: OldDesignator=J13 NewDesignator=J12
+Change Component Designator: OldDesignator=J14 NewDesignator=J13
+Change Component Designator: OldDesignator=J15 NewDesignator=J14
+Change Component Designator: OldDesignator=J16 NewDesignator=J15
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Added Component: Designator=LCD1(TFT_LCD)
+Added Component: Designator=R1(RES_0603)
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=TFT_CS Pin=LCD1-3
+Added Pin To Net: NetName=TFT_SCK Pin=LCD1-4
+Added Pin To Net: NetName=TFT_SDI Pin=LCD1-5
+Added Pin To Net: NetName=TFT_D/C Pin=LCD1-6
+Added Pin To Net: NetName=TFT_RST Pin=LCD1-7
+Added Pin To Net: NetName=VCC_3.3V Pin=R1-1
+Change Net Name : Old Net Name=NetJ5_3 New Net Name=NetJ4_3
+Change Net Name : Old Net Name=NetJ5_4 New Net Name=NetJ4_4
+Change Net Name : Old Net Name=NetJ5_5 New Net Name=NetJ4_5
+Change Net Name : Old Net Name=NetJ5_6 New Net Name=NetJ4_6
+Change Net Name : Old Net Name=NetJ13_3 New Net Name=NetJ12_3
+Change Net Name : Old Net Name=NetJ13_4 New Net Name=NetJ12_4
+Added Pin To Net: NetName=NetLCD1_2 Pin=LCD1-2
+Added Pin To Net: NetName=NetLCD1_2 Pin=R1-2
+Added Net: Name=NetLCD1_2
+Added Member To Class: ClassName=TC264MCUV02 Member=Component C1 22uf
+Added Member To Class: ClassName=TC264MCUV02 Member=Component C2 22uf
+Added Member To Class: ClassName=TC264MCUV02 Member=Component C3 104
+Added Member To Class: ClassName=TC264MCUV02 Member=Component C4 104
+Added Member To Class: ClassName=TC264MCUV02 Member=Component C5 22uf
+Added Member To Class: ClassName=TC264MCUV02 Member=Component C6 22uf
+Added Member To Class: ClassName=TC264MCUV02 Member=Component C10 22uf
+Added Member To Class: ClassName=TC264MCUV02 Member=Component D8 ZMM3V3
+Added Member To Class: ClassName=TC264MCUV02 Member=Component D9 ZMM3V3
+Added Member To Class: ClassName=TC264MCUV02 Member=Component D10 ZMM3V3
+Added Member To Class: ClassName=TC264MCUV02 Member=Component D14 ZMM3V3
+Added Member To Class: ClassName=TC264MCUV02 Member=Component LCD1 LCD
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R7 100
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R8 100
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R9 100
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R10 100
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R12 100k
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R13 100k
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R15 100k
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R16 240
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R17 240
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R18 240
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R26 100
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R32 240
+Added Member To Class: ClassName=TC264MCUV02 Member=Component U2 LMV358IDR
+Added Member To Class: ClassName=TC264MCUV02 Member=Component U3 LMV358IDR

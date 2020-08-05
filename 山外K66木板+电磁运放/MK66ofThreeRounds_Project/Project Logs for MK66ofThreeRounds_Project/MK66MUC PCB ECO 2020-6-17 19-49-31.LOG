@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J1 Old Footprint=Header H 2.54X4 New Footprint=Header 2.54X4
+Added Pin To Net: NetName=BUZZ Pin=U5-11
+Added Pin To Net: NetName=SW4 Pin=U5-27
+Added Pin To Net: NetName=SW3 Pin=U5-29
+Added Pin To Net: NetName=SW2 Pin=U5-31
+Added Pin To Net: NetName=SW1 Pin=U5-33
+Added Pin To Net: NetName=KEY1 Pin=U5-40
+Added Pin To Net: NetName=KEY3 Pin=U5-41
+Added Pin To Net: NetName=KEY2 Pin=U5-42
+Added Pin To Net: NetName=KEY4 Pin=U5-43
+Added Pin To Net: NetName=KEY5 Pin=U5-45

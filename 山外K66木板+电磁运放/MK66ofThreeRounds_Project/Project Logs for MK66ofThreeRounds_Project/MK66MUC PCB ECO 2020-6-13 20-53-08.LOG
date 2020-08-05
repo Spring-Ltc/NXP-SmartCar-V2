@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=ADC_BAT Pin=U7-34
+Added Pin To Net: NetName=ADC_OUT4 Pin=U7-57
+Added Pin To Net: NetName=ADC_OUT2 Pin=U7-67
+Added Pin To Net: NetName=ADC_OUT1 Pin=U7-73
+Added Pin To Net: NetName=ADC_OUT3 Pin=U7-74
+Added Pin To Net: NetName=ADC_OUT5 Pin=U7-95

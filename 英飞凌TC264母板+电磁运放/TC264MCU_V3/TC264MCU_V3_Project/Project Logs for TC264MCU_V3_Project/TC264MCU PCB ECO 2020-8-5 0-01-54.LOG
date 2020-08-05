@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=CSI_DAT2 Pin=J7-3
+Removed Pin From Net: NetName=CSI_DAT4 Pin=J7-4
+Removed Pin From Net: NetName=CSI_DAT6 Pin=J7-5
+Removed Pin From Net: NetName=CSI_DAT8 Pin=J7-6
+Removed Pin From Net: NetName=P11.3 Pin=J7-7
+Removed Pin From Net: NetName=GND Pin=J7-9
+Removed Pin From Net: NetName=VCC_3.3V Pin=J7-10
+Removed Pin From Net: NetName=GND Pin=J7-11
+Removed Pin From Net: NetName=CSI_HSYNC Pin=J7-13
+Removed Pin From Net: NetName=P11.2 Pin=J7-14
+Removed Pin From Net: NetName=CSI_DAT9 Pin=J7-15
+Removed Pin From Net: NetName=CSI_DAT7 Pin=J7-16
+Removed Pin From Net: NetName=CSI_DAT5 Pin=J7-17
+Removed Pin From Net: NetName=CSI_DAT3 Pin=J7-18
+Added Component: Designator=J7(Header F 2.54_2x10)
+Added Pin To Net: NetName=CSI_DAT3 Pin=J7-3
+Added Pin To Net: NetName=CSI_DAT5 Pin=J7-4
+Added Pin To Net: NetName=CSI_DAT7 Pin=J7-5
+Added Pin To Net: NetName=CSI_DAT9 Pin=J7-6
+Added Pin To Net: NetName=P11.2 Pin=J7-7
+Added Pin To Net: NetName=CSI_HSYNC Pin=J7-8
+Added Pin To Net: NetName=CSI_VSYNC Pin=J7-9
+Added Pin To Net: NetName=GND Pin=J7-10
+Added Pin To Net: NetName=VCC_3.3V Pin=J7-11
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=CSI_PIX Pin=J7-13
+Added Pin To Net: NetName=P11.3 Pin=J7-14
+Added Pin To Net: NetName=CSI_DAT8 Pin=J7-15
+Added Pin To Net: NetName=CSI_DAT6 Pin=J7-16
+Added Pin To Net: NetName=CSI_DAT4 Pin=J7-17
+Added Pin To Net: NetName=CSI_DAT2 Pin=J7-18
+Added Pin To Net: NetName=CSI_VSYNC Pin=U1-64
+Added Pin To Net: NetName=CSI_PIX Pin=U1-102
+Added Member To Class: ClassName=TC264MCU Member=Component J7 Header

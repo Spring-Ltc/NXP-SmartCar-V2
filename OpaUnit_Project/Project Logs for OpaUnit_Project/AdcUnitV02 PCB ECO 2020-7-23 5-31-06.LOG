@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=OUT4 Pin=J1-1
+Removed Pin From Net: NetName=OUT1 Pin=J1-2
+Removed Pin From Net: NetName=OUT2 Pin=J1-3
+Removed Pin From Net: NetName=OUT5 Pin=J1-4
+Removed Pin From Net: NetName=OUT6 Pin=J1-5
+Removed Pin From Net: NetName=OUT3 Pin=J1-6
+Removed Pin From Net: NetName=LC3 Pin=U1-3
+Removed Pin From Net: NetName=LC4 Pin=U1-5
+Removed Pin From Net: NetName=LC1 Pin=U2-3
+Removed Pin From Net: NetName=LC2 Pin=U2-5
+Removed Pin From Net: NetName=LC5 Pin=U3-3
+Removed Pin From Net: NetName=LC6 Pin=U3-5
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Added Component: Designator=P1(HDR-TH_6P_W)
+Added Pin To Net: NetName=OUT6 Pin=J1-1
+Added Pin To Net: NetName=OUT5 Pin=J1-2
+Added Pin To Net: NetName=OUT4 Pin=J1-3
+Added Pin To Net: NetName=OUT3 Pin=J1-4
+Added Pin To Net: NetName=OUT2 Pin=J1-5
+Added Pin To Net: NetName=OUT1 Pin=J1-6
+Added Pin To Net: NetName=LC2 Pin=U1-3
+Added Pin To Net: NetName=LC5 Pin=U1-5
+Added Pin To Net: NetName=LC4 Pin=U2-3
+Added Pin To Net: NetName=LC1 Pin=U2-5
+Added Pin To Net: NetName=LC6 Pin=U3-3
+Added Pin To Net: NetName=LC3 Pin=U3-5
+Change Net Name : Old Net Name=LC1 New Net Name=LC2
+Change Net Name : Old Net Name=LC2 New Net Name=LC3
+Change Net Name : Old Net Name=LC3 New Net Name=LC6
+Change Net Name : Old Net Name=LC4 New Net Name=LC1
+Change Net Name : Old Net Name=LC5 New Net Name=LC4
+Change Net Name : Old Net Name=LC6 New Net Name=LC5
+Added Member To Class: ClassName=AdcUnit Member=Component P1 Header 6
+Added Room: Name=AdcUnit

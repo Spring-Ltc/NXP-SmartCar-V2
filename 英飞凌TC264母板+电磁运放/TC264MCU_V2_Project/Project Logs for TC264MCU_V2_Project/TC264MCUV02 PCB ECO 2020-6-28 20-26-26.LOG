@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=VCC_5V Pin=D11-2
+Removed Pin From Net: NetName=CSI_DAT3 Pin=J8-3
+Removed Pin From Net: NetName=CSI_DAT5 Pin=J8-4
+Removed Pin From Net: NetName=CSI_DAT7 Pin=J8-5
+Removed Pin From Net: NetName=CSI_DAT9 Pin=J8-6
+Removed Pin From Net: NetName=P11.2 Pin=J8-7
+Removed Pin From Net: NetName=CSI_VSYNC Pin=J8-9
+Removed Pin From Net: NetName=GND Pin=J8-10
+Removed Pin From Net: NetName=VCC_3.3V Pin=J8-11
+Removed Pin From Net: NetName=GND Pin=J8-12
+Removed Pin From Net: NetName=CSI_PIX Pin=J8-13
+Removed Pin From Net: NetName=P11.3 Pin=J8-14
+Removed Pin From Net: NetName=CSI_DAT8 Pin=J8-15
+Removed Pin From Net: NetName=CSI_DAT6 Pin=J8-16
+Removed Pin From Net: NetName=CSI_DAT4 Pin=J8-17
+Removed Pin From Net: NetName=CSI_DAT2 Pin=J8-18
+Removed Pin From Net: NetName=CSI_PIX1 Pin=J10-1
+Removed Pin From Net: NetName=CSI_PIX Pin=J10-2
+Removed Pin From Net: NetName=CSI_PIX2 Pin=J10-3
+Removed Pin From Net: NetName=CSI_VSYNC2 Pin=J11-1
+Removed Pin From Net: NetName=CSI_VSYNC Pin=J11-2
+Removed Pin From Net: NetName=CSI_VSYNC1 Pin=J11-3
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Member From Class: ClassName=TC264MCU Member=D12
+Change Component Footprint: Designator=C2 Old Footprint=CAPE_SMD_D_6.4 New Footprint=CAPE_SMD_F_8.4
+Change Component Footprint: Designator=C10 Old Footprint=CAPE_SMD_D_6.4 New Footprint=CAPE_SMD_G_10.6
+Change Component Footprint: Designator=C1 Old Footprint=CAPE_SMD_F_8.4 New Footprint=CAPE_SMD_G_10.6
+Change Component Footprint: Designator=C7 Old Footprint=CAPE_SMD_F_8.4 New Footprint=CAPE_SMD_G_10.6
+Change Component Footprint: Designator=SW2 Old Footprint=VDG/S-04HG-R New Footprint=MCEMR-04-T
+Change Component Designator: OldDesignator=D10 NewDesignator=D8
+Change Component Designator: OldDesignator=D12 NewDesignator=D11
+Change Component Designator: OldDesignator=J10 NewDesignator=J11
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Added Component: Designator=D10(DO214_SMA)
+Added Component: Designator=Q1(TO-252-2)
+Added Pin To Net: NetName=VCC_5V Pin=D10-1
+Added Pin To Net: NetName=CSI_DAT2 Pin=J8-3
+Added Pin To Net: NetName=CSI_DAT4 Pin=J8-4
+Added Pin To Net: NetName=CSI_DAT6 Pin=J8-5
+Added Pin To Net: NetName=CSI_DAT8 Pin=J8-6
+Added Pin To Net: NetName=P11.3 Pin=J8-7
+Added Pin To Net: NetName=CSI_PIX Pin=J8-8
+Added Pin To Net: NetName=GND Pin=J8-9
+Added Pin To Net: NetName=VCC_3.3V Pin=J8-10
+Added Pin To Net: NetName=GND Pin=J8-11
+Added Pin To Net: NetName=CSI_VSYNC Pin=J8-12
+Added Pin To Net: NetName=P11.2 Pin=J8-14
+Added Pin To Net: NetName=CSI_DAT9 Pin=J8-15
+Added Pin To Net: NetName=CSI_DAT7 Pin=J8-16
+Added Pin To Net: NetName=CSI_DAT5 Pin=J8-17
+Added Pin To Net: NetName=CSI_DAT3 Pin=J8-18
+Added Pin To Net: NetName=CSI_PIX2 Pin=J10-1
+Added Pin To Net: NetName=CSI_PIX Pin=J10-2
+Added Pin To Net: NetName=CSI_PIX1 Pin=J10-3
+Added Pin To Net: NetName=CSI_VSYNC1 Pin=J11-1
+Added Pin To Net: NetName=CSI_VSYNC Pin=J11-2
+Added Pin To Net: NetName=CSI_VSYNC2 Pin=J11-3
+Added Pin To Net: NetName=DC_POWERIN Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD12_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR9_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=F3-2
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=SW1-2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=VEE Pin=P1-1
+Added Pin To Net: NetName=VEE Pin=Q1-4
+Added Net: Name=VEE
+Change Class Name : Old Net Name=TC264MCU New Net Name=TC264MCUV02
+Added Member To Class: ClassName=TC264MCUV02 Member=Component D10 SS54/5A/40V
+Added Member To Class: ClassName=TC264MCUV02 Member=Component Q2 2N3906
+Added Room: Name=TC264MCUV02

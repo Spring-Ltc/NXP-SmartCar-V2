@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C8 Old Footprint=CAPE_SMD_D_6.4 New Footprint=CAPE_SMD_F_8.4
+Added Pin To Net: NetName=AN21 Pin=U1-2
+Added Member To Class: ClassName=TC264MCU Member=Component J4 Header 2.54_2X2
+Added Member To Class: ClassName=TC264MCU Member=Component J5 Header 2.54_2X4

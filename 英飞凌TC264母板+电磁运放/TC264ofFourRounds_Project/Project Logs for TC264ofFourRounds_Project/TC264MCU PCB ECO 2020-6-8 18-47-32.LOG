@@ -1,0 +1,4 @@
+Added Component: Designator=P1(KF_2P-5.08)
+Added Pin To Net: NetName=DC_POWERIN Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Member To Class: ClassName=TC264MCU Member=Component P1 KF-2P-5.08

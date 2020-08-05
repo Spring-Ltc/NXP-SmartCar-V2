@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ENCODE2_DIR Pin=U1-48
+Added Pin To Net: NetName=ENCODE2_LSB Pin=U1-49
+Added Pin To Net: NetName=ENCODE1_LSB Pin=U1-88
+Added Pin To Net: NetName=ENCODE1_DIR Pin=U1-89

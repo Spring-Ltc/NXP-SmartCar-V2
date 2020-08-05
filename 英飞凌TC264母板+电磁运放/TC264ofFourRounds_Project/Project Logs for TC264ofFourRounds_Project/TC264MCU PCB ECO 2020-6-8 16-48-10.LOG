@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=ADC_MOTOR1 Pin=JP1-1
+Added Pin To Net: NetName=ADC_MOTOR2 Pin=JP1-2
+Added Pin To Net: NetName=PWM_MOTOR1+ Pin=JP1-4
+Added Pin To Net: NetName=PWM_MOTOR1- Pin=JP1-5
+Added Pin To Net: NetName=PWM_MOTOR2+ Pin=JP1-6
+Added Pin To Net: NetName=PWM_MOTOR2- Pin=JP1-7
+Added Pin To Net: NetName=GND Pin=JP1-8

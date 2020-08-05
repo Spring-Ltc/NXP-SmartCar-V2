@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ADC_OUT4 Pin=U5-73
+Removed Pin From Net: NetName=ADC_OUT3 Pin=U5-74
+Added Pin To Net: NetName=ADC_OUT3 Pin=U5-73
+Added Pin To Net: NetName=ADC_OUT4 Pin=U5-74
+Added Member To Class: ClassName=MK66MCU Member=Component R37 1¦¸

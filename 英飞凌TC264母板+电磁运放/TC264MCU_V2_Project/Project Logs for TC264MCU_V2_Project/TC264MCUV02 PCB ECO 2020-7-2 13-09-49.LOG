@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VEE Pin=JP2-1
+Removed Pin From Net: NetName=DC_POWERIN Pin=JP2-2
+Added Pin To Net: NetName=DC_POWERIN Pin=JP2-1
+Added Pin To Net: NetName=VEE Pin=JP2-2

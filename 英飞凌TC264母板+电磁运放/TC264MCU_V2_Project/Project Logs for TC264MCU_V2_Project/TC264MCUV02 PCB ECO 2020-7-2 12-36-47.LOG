@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D9-2
+Removed Pin From Net: NetName=GND Pin=J12-2
+Removed Pin From Net: NetName=GND Pin=J13-2
+Removed Pin From Net: NetName=GND Pin=J14-2
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=GND Pin=U4-4
+Change Component Comment : Designator=RN1 Old Comment=RESW4 New Comment=10k
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J2
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Added Component: Designator=R26(RES_0603)
+Added Pin To Net: NetName=GND Pin=R26-2
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR30_2 New Net Name=NetR31_2
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR40_1
+Added Pin To Net: NetName=AGND Pin=C5-2
+Added Pin To Net: NetName=AGND Pin=C6-2
+Added Pin To Net: NetName=AGND Pin=C9-2
+Added Pin To Net: NetName=AGND Pin=D6-2
+Added Pin To Net: NetName=AGND Pin=D7-2
+Added Pin To Net: NetName=AGND Pin=D9-2
+Added Pin To Net: NetName=AGND Pin=J12-2
+Added Pin To Net: NetName=AGND Pin=J13-2
+Added Pin To Net: NetName=AGND Pin=J14-2
+Added Pin To Net: NetName=AGND Pin=R16-1
+Added Pin To Net: NetName=AGND Pin=R17-1
+Added Pin To Net: NetName=AGND Pin=R18-2
+Added Pin To Net: NetName=AGND Pin=R19-2
+Added Pin To Net: NetName=AGND Pin=R24-1
+Added Pin To Net: NetName=AGND Pin=R25-2
+Added Pin To Net: NetName=AGND Pin=R26-1
+Added Pin To Net: NetName=AGND Pin=U2-4
+Added Pin To Net: NetName=AGND Pin=U3-4
+Added Pin To Net: NetName=AGND Pin=U4-4
+Added Net: Name=AGND
+Added Member To Class: ClassName=TC264MCUV02 Member=Component R41 1¦¸

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PWM_MOTOR2- Pin=U7-20
+Added Pin To Net: NetName=PWM_MOTOR1- Pin=U7-21
+Added Pin To Net: NetName=PWM_MOTOR2+ Pin=U7-22
+Added Pin To Net: NetName=PWM_MOTOR1+ Pin=U7-26
+Added Pin To Net: NetName=ADC_MOTOR2 Pin=U7-35
+Added Pin To Net: NetName=ADC_MOTOR1 Pin=U7-37

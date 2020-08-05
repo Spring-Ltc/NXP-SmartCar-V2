@@ -1,0 +1,6 @@
+Added Component: Designator=J13(PIN-1-1.0X0.5-SMD)
+Added Component: Designator=J14(M_KONG)
+Added Pin To Net: NetName=DC_POWERIN Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J14-1
+Added Member To Class: ClassName=TC264MCU Member=Component J13 JET
+Added Member To Class: ClassName=TC264MCU Member=Component J14 JET

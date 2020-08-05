@@ -1,0 +1,210 @@
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D8-2
+Removed Pin From Net: NetName=GND Pin=D9-2
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=VCC_5V Pin=J3-2
+Removed Member From Class: ClassName=MK66MCU Member=D12
+Removed Member From Class: ClassName=MK66MCU Member=D13
+Removed Member From Class: ClassName=MK66MCU Member=D14
+Removed Member From Class: ClassName=MK66MCU Member=D15
+Removed Member From Class: ClassName=MK66MCU Member=D16
+Removed Member From Class: ClassName=MK66MCU Member=J13
+Removed Member From Class: ClassName=MK66MCU Member=RN2
+Change Component Designator: OldDesignator=C16 NewDesignator=C20
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D10 NewDesignator=D5
+Change Component Designator: OldDesignator=D11 NewDesignator=D6
+Change Component Designator: OldDesignator=D12 NewDesignator=D7
+Change Component Designator: OldDesignator=D13 NewDesignator=D8
+Change Component Designator: OldDesignator=D14 NewDesignator=D9
+Change Component Designator: OldDesignator=D15 NewDesignator=D11
+Change Component Designator: OldDesignator=D16 NewDesignator=D10
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J2
+Change Component Designator: OldDesignator=J9 NewDesignator=J4
+Change Component Designator: OldDesignator=J10 NewDesignator=J9
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=J12 NewDesignator=J11
+Change Component Designator: OldDesignator=J13 NewDesignator=J12
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R45
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R46
+Change Component Designator: OldDesignator=R14 NewDesignator=R11
+Change Component Designator: OldDesignator=R15 NewDesignator=R12
+Change Component Designator: OldDesignator=R16 NewDesignator=R13
+Change Component Designator: OldDesignator=R17 NewDesignator=R47
+Change Component Designator: OldDesignator=R18 NewDesignator=R14
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R21 NewDesignator=R19
+Change Component Designator: OldDesignator=R22 NewDesignator=R20
+Change Component Designator: OldDesignator=R23 NewDesignator=R21
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R25 NewDesignator=R23
+Change Component Designator: OldDesignator=R26 NewDesignator=R36
+Change Component Designator: OldDesignator=R27 NewDesignator=R25
+Change Component Designator: OldDesignator=R28 NewDesignator=R37
+Change Component Designator: OldDesignator=R29 NewDesignator=R38
+Change Component Designator: OldDesignator=R30 NewDesignator=R39
+Change Component Designator: OldDesignator=R31 NewDesignator=R40
+Change Component Designator: OldDesignator=R32 NewDesignator=R26
+Change Component Designator: OldDesignator=R33 NewDesignator=R27
+Change Component Designator: OldDesignator=R34 NewDesignator=R28
+Change Component Designator: OldDesignator=R35 NewDesignator=R29
+Change Component Designator: OldDesignator=R36 NewDesignator=R15
+Change Component Designator: OldDesignator=R37 NewDesignator=R16
+Change Component Designator: OldDesignator=R38 NewDesignator=R30
+Change Component Designator: OldDesignator=R39 NewDesignator=R31
+Change Component Designator: OldDesignator=R40 NewDesignator=R32
+Change Component Designator: OldDesignator=R41 NewDesignator=R33
+Change Component Designator: OldDesignator=R42 NewDesignator=R34
+Change Component Designator: OldDesignator=R43 NewDesignator=R35
+Change Component Designator: OldDesignator=R44 NewDesignator=R41
+Change Component Designator: OldDesignator=R45 NewDesignator=R42
+Change Component Designator: OldDesignator=R46 NewDesignator=R43
+Change Component Designator: OldDesignator=R47 NewDesignator=R44
+Change Component Designator: OldDesignator=RN2 NewDesignator=RN1
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW1
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Added Component: Designator=J6(Header F 2.54_2x10)
+Added Component: Designator=JP2(FPC_0.5_24P)
+Added Component: Designator=R24(RES_0603)
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=JP2-21
+Added Pin To Net: NetName=VCC_3.3V Pin=JP2-22
+Added Pin To Net: NetName=VCC_3.3V Pin=R24-2
+Added Pin To Net: NetName=IIC_SDA Pin=U7-25
+Added Pin To Net: NetName=IIC_SCL Pin=U7-28
+Added Pin To Net: NetName=ENCODE2_DIR Pin=U7-63
+Added Pin To Net: NetName=ENCODE2_LSB Pin=U7-64
+Added Pin To Net: NetName=ENCODE1_DIR Pin=U7-65
+Added Pin To Net: NetName=ENCODE1_LSB Pin=U7-66
+Change Net Name : Old Net Name=NetC3_1 New Net Name=ADC_OUT1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=ADC_OUT3
+Change Net Name : Old Net Name=NetC9_1 New Net Name=ADC_OUT2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=ADC_OUT4
+Change Net Name : Old Net Name=NetC14_1 New Net Name=ADC_OUT5
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD13_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD14_A New Net Name=NetD9_A
+Change Net Name : Old Net Name=NetD15_1 New Net Name=NetD11_1
+Change Net Name : Old Net Name=NetD16_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR32_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR40_2 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetR42_1 New Net Name=NetR34_1
+Change Net Name : Old Net Name=NetR45_2 New Net Name=NetR42_2
+Added Pin To Net: NetName=CAMERAL_D0 Pin=JP2-11
+Added Pin To Net: NetName=CAMERAL_D0 Pin=U7-104
+Added Net: Name=CAMERAL_D0
+Added Pin To Net: NetName=CAMERAL_D1 Pin=JP2-12
+Added Pin To Net: NetName=CAMERAL_D1 Pin=U7-105
+Added Net: Name=CAMERAL_D1
+Added Pin To Net: NetName=CAMERAL_D2 Pin=JP2-13
+Added Pin To Net: NetName=CAMERAL_D2 Pin=U7-102
+Added Net: Name=CAMERAL_D2
+Added Pin To Net: NetName=CAMERAL_D3 Pin=JP2-14
+Added Pin To Net: NetName=CAMERAL_D3 Pin=U7-103
+Added Net: Name=CAMERAL_D3
+Added Pin To Net: NetName=CAMERAL_D4 Pin=JP2-15
+Added Pin To Net: NetName=CAMERAL_D4 Pin=U7-100
+Added Net: Name=CAMERAL_D4
+Added Pin To Net: NetName=CAMERAL_D5 Pin=JP2-16
+Added Pin To Net: NetName=CAMERAL_D5 Pin=U7-101
+Added Net: Name=CAMERAL_D5
+Added Pin To Net: NetName=CAMERAL_D6 Pin=JP2-17
+Added Pin To Net: NetName=CAMERAL_D6 Pin=U7-99
+Added Net: Name=CAMERAL_D6
+Added Pin To Net: NetName=CAMERAL_D7 Pin=JP2-18
+Added Pin To Net: NetName=CAMERAL_D7 Pin=U7-98
+Added Net: Name=CAMERAL_D7
+Added Pin To Net: NetName=CAMERAL_D8 Pin=U7-97
+Added Net: Name=CAMERAL_D8
+Added Pin To Net: NetName=CAMERAL_HREF Pin=JP2-9
+Added Pin To Net: NetName=CAMERAL_HREF Pin=U7-107
+Added Net: Name=CAMERAL_HREF
+Added Pin To Net: NetName=CAMERAL_PCLK Pin=JP2-4
+Added Pin To Net: NetName=CAMERAL_PCLK Pin=U7-110
+Added Net: Name=CAMERAL_PCLK
+Added Pin To Net: NetName=CAMERAL_SCL Pin=JP2-19
+Added Pin To Net: NetName=CAMERAL_SCL Pin=U7-108
+Added Net: Name=CAMERAL_SCL
+Added Pin To Net: NetName=CAMERAL_SDA Pin=JP2-20
+Added Pin To Net: NetName=CAMERAL_SDA Pin=U7-112
+Added Net: Name=CAMERAL_SDA
+Added Pin To Net: NetName=CAMERAL_VSYNC Pin=JP2-6
+Added Pin To Net: NetName=CAMERAL_VSYNC Pin=U7-106
+Added Net: Name=CAMERAL_VSYNC
+Added Pin To Net: NetName=LCD_CS Pin=J6-9
+Added Pin To Net: NetName=LCD_CS Pin=U7-7
+Added Net: Name=LCD_CS
+Added Pin To Net: NetName=LCD_D0 Pin=J6-11
+Added Pin To Net: NetName=LCD_D0 Pin=U7-85
+Added Net: Name=LCD_D0
+Added Pin To Net: NetName=LCD_D1 Pin=J6-12
+Added Pin To Net: NetName=LCD_D1 Pin=U7-84
+Added Net: Name=LCD_D1
+Added Pin To Net: NetName=LCD_D2 Pin=J6-13
+Added Pin To Net: NetName=LCD_D2 Pin=U7-82
+Added Net: Name=LCD_D2
+Added Pin To Net: NetName=LCD_D3 Pin=J6-14
+Added Pin To Net: NetName=LCD_D3 Pin=U7-83
+Added Net: Name=LCD_D3
+Added Pin To Net: NetName=LCD_D4 Pin=J6-15
+Added Pin To Net: NetName=LCD_D4 Pin=U7-81
+Added Net: Name=LCD_D4
+Added Pin To Net: NetName=LCD_D5 Pin=J6-16
+Added Pin To Net: NetName=LCD_D5 Pin=U7-1
+Added Net: Name=LCD_D5
+Added Pin To Net: NetName=LCD_D6 Pin=J6-17
+Added Pin To Net: NetName=LCD_D6 Pin=U7-2
+Added Net: Name=LCD_D6
+Added Pin To Net: NetName=LCD_D7 Pin=J6-18
+Added Pin To Net: NetName=LCD_D7 Pin=U7-3
+Added Net: Name=LCD_D7
+Added Pin To Net: NetName=LCD_RD Pin=J6-2
+Added Pin To Net: NetName=LCD_RD Pin=U7-6
+Added Net: Name=LCD_RD
+Added Pin To Net: NetName=LCD_RS Pin=J6-5
+Added Pin To Net: NetName=LCD_RS Pin=U7-8
+Added Net: Name=LCD_RS
+Added Pin To Net: NetName=LCD_RST Pin=J6-8
+Added Pin To Net: NetName=LCD_RST Pin=U7-9
+Added Net: Name=LCD_RST
+Added Pin To Net: NetName=LCD_WR Pin=J6-7
+Added Pin To Net: NetName=LCD_WR Pin=U7-5
+Added Net: Name=LCD_WR
+Added Pin To Net: NetName=NetJ6_10 Pin=J6-10
+Added Pin To Net: NetName=NetJ6_10 Pin=R24-1
+Added Net: Name=NetJ6_10
+Added Member To Class: ClassName=MK66MCU Member=Component JP2 FPC_24pin

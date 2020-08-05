@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetC23_1 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=VCC_5V Pin=D11-2
+Removed Pin From Net: NetName=GND Pin=U9-1
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=NetC22_2 Pin=U9-3
+Removed Pin From Net: NetName=NetC22_2 Pin=U9-4
+Removed Pin From Net: NetName=NetC23_1 Pin=U9-5
+Removed Pin From Net: NetName=NetC23_1 Pin=U9-6
+Removed Pin From Net: NetName=NetC23_1 Pin=U9-7
+Removed Pin From Net: NetName=NetR49_1 Pin=U9-8
+Removed Member From Class: ClassName=MK66MCU Member=C24
+Change Component Designator: OldDesignator=C24 NewDesignator=C23
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J1
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Added Component: Designator=U9(SOIC-8_150MIL)
+Added Pin To Net: NetName=7.2V Pin=D11-2
+Added Pin To Net: NetName=GND Pin=U7-23
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=NetC22_2 Pin=U9-3
+Added Pin To Net: NetName=NetC22_2 Pin=U9-4
+Added Pin To Net: NetName=NetC23_1 Pin=U9-5
+Added Pin To Net: NetName=NetC23_1 Pin=U9-6
+Added Pin To Net: NetName=NetC23_1 Pin=U9-7
+Added Pin To Net: NetName=NetR49_1 Pin=U9-8
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC23_2
+Added Pin To Net: NetName=VCC5V_MCU Pin=R48-2
+Added Pin To Net: NetName=VCC5V_MCU Pin=U7-24
+Added Net: Name=VCC5V_MCU
